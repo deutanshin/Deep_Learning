@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('color_img.jpg')
+img = cv2.imread('img/color_img.jpg')
 
 b, g, r = cv2.split(img)
 

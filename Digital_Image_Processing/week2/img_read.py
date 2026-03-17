@@ -2,7 +2,7 @@ import cv2
 
 print(cv2.__version__)
 
-img = cv2.imread('color_img.jpg')
+img = cv2.imread('img/color_img.jpg')
 
 cv2.imshow('window1', img)
 

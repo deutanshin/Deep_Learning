@@ -1,2 +1,6 @@
 .venv
 .zip
+
+**/data/*.txt
+**/data/*.gz
+**/data/*.jsonl
